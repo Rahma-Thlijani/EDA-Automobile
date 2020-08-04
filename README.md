@@ -1,6 +1,6 @@
 # EDA-Automobile-Prediction
 ![Image](youtube1.png)
-Data science project that uses deep learning and multiple linear regression aiming to predict the number of views for youtube videos.
+In this data science project, we will focus on applying an **exploratory data analysis, visualizing the data, and selecting the features** to finally train a deep learning model aiming to predict the price of the car regarding its different properties.
 ## Data Description
 We have two datasets in this project: "StatsVideosXALL.csv" (for the features) and "StatsVideosXALL.csv" (for the output).
 The datasets has 3365 rows and 4 columns: Likes, Dislikes, Subscribers and Views, they are related to each youtube video. 
