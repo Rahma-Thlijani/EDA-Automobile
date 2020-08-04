@@ -1,5 +1,5 @@
-# EDA-Automobile-Prediction
 ![Image](car1.jpg)
+# EDA-Automobile-Prediction
 In this data science project, we will focus on applying an **exploratory data analysis, visualizing the data, and selecting the features** to finally train a deep learning model aiming to predict the price of the car regarding its different properties.
 ## Data Description
 We have two datasets in this project: "StatsVideosXALL.csv" (for the features) and "StatsVideosXALL.csv" (for the output).
