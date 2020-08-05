@@ -32,8 +32,8 @@ All the project steps are organized and listed below:
 * Descriptive Statical Analysis 
 * Analyzing Individual Features 
 * Combinaison and Groupping 
-* Output Analysis
-![Image](c1.png) | ![Image](c2.png)
+* Output Analysis \
+![Image](c1.png)  ![Image](c2.png)
 ### 5. Feature Selection
 ### 6. Model Development
 * Select the dataframe
