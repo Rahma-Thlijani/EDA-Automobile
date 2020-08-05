@@ -5,10 +5,7 @@ Data science project, in which we apply: Exploratory Data Analysis, Data Visuali
 We have two datasets in this project: "StatsVideosXALL.csv" (for the features) and "StatsVideosXALL.csv" (for the output).
 The datasets has 3365 rows and 4 columns: Likes, Dislikes, Subscribers and Views, they are related to each youtube video. 
 ## Project Overview
-In this data science project, we will focus on applying an **exploratory data analysis, visualizing the data, and selecting the features** to finally train a deep learning model aiming to predict the price of the car regarding its different properties.
-
-In this project will apply supervised learning techniques on youtube data to predict the number of views of a video considering multiple features. 
-To accomplish this, we will compare 2 models: Multiple Linear Regression and Deep Neural Network. In addition, we will evaluate each model based on the MAE
+In this data science project, we will focus on applying an **exploratory data analysis, visualizing the data, and selecting the features**. In addition, we will train a deep learning model aiming to predict the price of the car regarding its different properties. Finally, we will evaluate the model based on the MAE
 the RMSE and the R2_Score.
 ## Project Steps
 You will first understand the data the we will apply data exploration. Afterwards, we will train two different models and finally we will evaluate them.
