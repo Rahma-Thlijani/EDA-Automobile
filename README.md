@@ -41,9 +41,7 @@ All the project steps are organized and listed below:
 * Train the regression model
 ### 7. Model Evaluation
 ## Conclusion / Results
-Two different learning algorithms (Multiple Linear Regression and Deep Neural Network) were tested, and we have evaluated their performance.
-The best prediction performance was achieved with the Deep Neural Network model, and resulted in the following metrics:
-
+We tested the deep neural network model on the testset to provide predictions, and the we evaluated its performance using the three metrics:
 * Mean Absolute Error (MAE): 12317109.74
 * Root mean squared error (RMSE): 56406118.44
 * R-squared Score (R2_Score): 0.8038
