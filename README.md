@@ -2,9 +2,9 @@
 # EDA-Automobile-Prediction
 Data science project, in which we apply: Exploratory Data Analysis, Data Visualization, Feature Selection, and Deep learning model aiming to predict a car price.
 ## Data Description
-We have two datasets in this project: "StatsVideosXALL.csv" (for the features) and "StatsVideosXALL.csv" (for the output).
-The datasets has 3365 rows and 4 columns: Likes, Dislikes, Subscribers and Views, they are related to each youtube video. 
-You can find the "Automobile Data Set" from the following link: https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data. 
+We have the Automobile dataset "auto.csv". It was obtained through the following link: https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data. \ 
+The datasets has 205 rows and 27 columns containing the cars' characteristics such as 'symboling', 'normalized-losses', 'maker', 'fuel-type', 'aspiration',
+'num-of-doors', 'body-style', etc.
 ## Project Overview
 In this data science project, we will focus on applying an **exploratory data analysis, visualizing the data, and selecting the features**. In addition, we will train a **deep learning model** aiming to predict the price of the car regarding its different properties. Finally, we will evaluate the model based on the MAE
 the RMSE and the R2_Score.
