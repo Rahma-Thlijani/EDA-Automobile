@@ -20,10 +20,28 @@ All the project steps are organized and listed below:
 * Data information
 * Check to number of rows and columns
 ### 3. Data Processing
+* Dealing with missing data
+* Drop the duplicate rows
+* Correct data format
+* Dealing with outliers
+* Data standardization
+* Data normalization
+* Binning
+* Converting categorical values
 ### 4. Exploratory Data Analysis
+* Descriptive Statical Analysis 
+* Analyzing Individual Features 
+* Combinaison and Groupping 
+* Output Analysis
+   -*Continuous numerical variables: \
+In order to judge the relationship between the numerical variables and the output "price", we will use the two coefficients:The Pearson Correlation Coefficient
+and The P-value.
+
+   -*Categorical variables: \
+In order to judge the relationship between the categorical variables and the output "price", we will use the two coefficients:The F-test score and The P-value.
 ### 5. Feature Selection
 ### 6. Model Development
-###7. Model Evaluation
+### 7. Model Evaluation
        
 
 1. Data Understanding
