@@ -33,27 +33,13 @@ All the project steps are organized and listed below:
 * Analyzing Individual Features 
 * Combinaison and Groupping 
 * Output Analysis
-   -*Continuous numerical variables: \
-In order to judge the relationship between the numerical variables and the output "price", we will use the two coefficients:The Pearson Correlation Coefficient
-and The P-value.
-
-   -*Categorical variables: \
-In order to judge the relationship between the categorical variables and the output "price", we will use the two coefficients:The F-test score and The P-value.
 ### 5. Feature Selection
 ### 6. Model Development
+* Select the dataframe
+* Split data set into training and testing parts (80/20)
+* Scale both training and testing input data
+* Train the regression model
 ### 7. Model Evaluation
-       
-
-1. Data Understanding
-2. Data Exploration
-3. Multiple Regression Model \
-3.1 Model Training \
-3.2 Model Prediction \
-3.3 Model Evaluation 
-4. Deep Learning Model \
-4.1 Model Training \
-4.2 Model Prediction \
-4.3 Model Evaluation  
 ## Conclusion / Results
 Two different learning algorithms (Multiple Linear Regression and Deep Neural Network) were tested, and we have evaluated their performance.
 The best prediction performance was achieved with the Deep Neural Network model, and resulted in the following metrics:
