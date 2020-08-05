@@ -4,6 +4,7 @@ Data science project, in which we apply: Exploratory Data Analysis, Data Visuali
 ## Data Description
 We have two datasets in this project: "StatsVideosXALL.csv" (for the features) and "StatsVideosXALL.csv" (for the output).
 The datasets has 3365 rows and 4 columns: Likes, Dislikes, Subscribers and Views, they are related to each youtube video. 
+You can find the "Automobile Data Set" from the following link: https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data. 
 ## Project Overview
 In this data science project, we will focus on applying an **exploratory data analysis, visualizing the data, and selecting the features**. In addition, we will train a **deep learning model** aiming to predict the price of the car regarding its different properties. Finally, we will evaluate the model based on the MAE
 the RMSE and the R2_Score.
