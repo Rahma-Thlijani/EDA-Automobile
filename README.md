@@ -11,13 +11,19 @@ the RMSE and the R2_Score.
 You will first understand the data the we will apply data exploration. Afterwards, we will train two different models and finally we will evaluate them.
 All the project steps are organized and listed below:
 
-1. Data Import
-2. Data Understanding and Manipulation
-3. Data Processing
-4. Exploratory Data Analysis
-5. Feature Selection
-6. Model Development
-7. Model Evaluation
+### 1. Data Import
+### 2. Data Understanding and Manipulation
+* Show data header
+* Show columns names
+* Drop the first irrelevant column
+* Fix columns names
+* Data information
+* Check to number of rows and columns
+### 3. Data Processing
+### 4. Exploratory Data Analysis
+### 5. Feature Selection
+### 6. Model Development
+###7. Model Evaluation
        
 
 1. Data Understanding
