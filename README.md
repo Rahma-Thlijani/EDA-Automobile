@@ -1,13 +1,13 @@
 ![Image](car1.jpg)
 # EDA-Automobile-Prediction
-Data science project, in which we apply: Exploratory Data Analysis, Data Visualization, Feature Selection, and Deep learning model aiming to predict a car price.
+Data science project, in which we apply: Exploratory Data Analysis, Data Visualization, Feature Selection, and Multiple Regression model aiming to predict a car price.
 ## Data Description
 We have the Automobile dataset "auto.csv". It was obtained through the following link: https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data.
 
 The datasets has 205 rows and 27 columns containing the cars' characteristics such as 'symboling', 'normalized-losses', 'maker', 'fuel-type', 'aspiration',
 'num-of-doors', 'body-style', etc.
 ## Project Overview
-In this data science project, we will focus on applying an **exploratory data analysis, visualizing the data, and selecting the features**. In addition, we will train a **deep learning model** aiming to predict the price of the car regarding its different properties. Finally, we will evaluate the model based on the MAE
+In this data science project, we will focus on applying an **exploratory data analysis, visualizing the data, and selecting the features**. In addition, we will train a multiple regression model aiming to predict the price of the car regarding its different properties. Finally, we will evaluate the model based on the MAE
 the RMSE and the R2_Score.
 ## Project Steps
 You will first understand the data the we will apply data exploration. Afterwards, we will train two different models and finally we will evaluate them.
@@ -43,7 +43,8 @@ All the project steps are organized and listed below:
 * Scale both training and testing input data
 * Train the regression model
 ### 7. Model Evaluation
-We tested the deep neural network model on the testset to provide predictions, and then we evaluated its performance using the three metrics:
-* Mean Absolute Error (MAE): 12317109.74
-* Root mean squared error (RMSE): 56406118.44
-* R-squared Score (R2_Score): 0.8038
+We tested the multiple regression model on the testset to provide predictions, and then we evaluated its performance using the three metrics:
+* Mean Absolute Error (MAE): 2921.78
+* Root mean squared error (RMSE): 4150.64
+* R-squared Score (R2_Score): 0.7503
+
