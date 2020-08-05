@@ -33,7 +33,7 @@ All the project steps are organized and listed below:
 * Analyzing Individual Features 
 * Combinaison and Groupping 
 * Output Analysis
-![Image](c1.png) | ![Image](c2.jpg)
+![Image](c1.png) | ![Image](c2.png)
 ### 5. Feature Selection
 ### 6. Model Development
 * Select the dataframe
