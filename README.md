@@ -1,13 +1,13 @@
 ![Image](car1.jpg)
 # EDA-Automobile-Prediction
-Data science project, in which we apply: Data processing, Exploratory Data Analysis, Data Visualization, Feature Selection, and Multiple Regression model aiming to predict a car price.
+Data science project, in which we will focus on applying: Data processing, Exploratory Data Analysis, Data Visualization, Feature Selection, and Multiple Regression model aiming to predict a car price.
 ## Data Description
 We have the Automobile dataset "auto.csv". It was obtained through the following link: https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data.
 
 The datasets has 205 rows and 27 columns containing the cars' characteristics such as 'symboling', 'normalized-losses', 'maker', 'fuel-type', 'aspiration',
 'num-of-doors', 'body-style', etc.
 ## Project Overview
-In this data science project, we will focus on applying a **data processing, exploratory data analysis (EDA), data visualization and feature selection**. In addition, we will train a multiple regression model aiming to predict the price of the car regarding its different properties. Finally, we will evaluate the model based on the MAE
+In this data science project, we will first understand, manipulate, process, visualize and analyze the data. In addition, we will train a multiple regression model aiming to predict the price of the car regarding its different properties. Finally, we will evaluate the model based on the MAE
 the RMSE and the R2_Score.
 ## Project Steps
 All the project steps are organized and listed below:
