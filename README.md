@@ -1,5 +1,5 @@
 ![Image](car1.jpg)
-# EDA-Automobile-Prediction
+# Exploratory Data Analysis (EDA), Data Visualization And Feature Selection For Car Price Prediction
 Data science project, in which we will focus on applying: **Data processing, Exploratory Data Analysis (EDA), Data Visualization, Feature Selection, and Multiple Regression model** aiming to predict a car price.
 ## Data Description
 We have the Automobile dataset "auto.csv". It was obtained through the following link: https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data.
